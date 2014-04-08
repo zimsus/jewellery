@@ -15,7 +15,7 @@ production:
 #  encoding: utf-8
   pool: 5
   username: "rails"
-  password: "mysqlz"
+  password: "q5ktyP0qmX"
   host: "localhost"
   port: "3306"
-  database: "jewellery"
+  database: "rails"
