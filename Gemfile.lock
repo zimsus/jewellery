@@ -1,28 +1,27 @@
 GIT
   remote: git://github.com/spree/spree.git
-  revision: 761ba5ffcc47dd8573b17f5ec5cdcef6a66dc3a5
-  branch: 2-2-stable
+  revision: ef29de0411ac1094e158d26c4055bf6862ad8d9f
   specs:
-    spree (2.2.2.beta)
-      spree_api (= 2.2.2.beta)
-      spree_backend (= 2.2.2.beta)
-      spree_cmd (= 2.2.2.beta)
-      spree_core (= 2.2.2.beta)
-      spree_frontend (= 2.2.2.beta)
-      spree_sample (= 2.2.2.beta)
-    spree_api (2.2.2.beta)
+    spree (2.3.0.beta)
+      spree_api (= 2.3.0.beta)
+      spree_backend (= 2.3.0.beta)
+      spree_cmd (= 2.3.0.beta)
+      spree_core (= 2.3.0.beta)
+      spree_frontend (= 2.3.0.beta)
+      spree_sample (= 2.3.0.beta)
+    spree_api (2.3.0.beta)
       rabl (= 0.9.3)
-      spree_core (= 2.2.2.beta)
+      spree_core (= 2.3.0.beta)
       versioncake (~> 1.2.0)
-    spree_backend (2.2.2.beta)
+    spree_backend (2.3.0.beta)
       jquery-rails (~> 3.1.0)
       jquery-ui-rails (~> 4.1.0)
       select2-rails (~> 3.4.7)
-      spree_api (= 2.2.2.beta)
-      spree_core (= 2.2.2.beta)
-    spree_cmd (2.2.2.beta)
+      spree_api (= 2.3.0.beta)
+      spree_core (= 2.3.0.beta)
+    spree_cmd (2.3.0.beta)
       thor (~> 0.14)
-    spree_core (2.2.2.beta)
+    spree_core (2.3.0.beta)
       activemerchant (~> 1.42.3)
       acts_as_list (= 0.3.0)
       awesome_nested_set (~> 3.0.0.rc.3)
@@ -36,26 +35,25 @@ GIT
       json (~> 1.7)
       kaminari (~> 0.15.0)
       monetize
-      paperclip (~> 3.4.1)
+      paperclip (~> 4.1.1)
       paranoia (~> 2.0)
-      rails (~> 4.0.3)
+      rails (~> 4.0.4)
       ransack (~> 1.1.0)
       state_machine (= 1.2.0)
       stringex (~> 1.5.1)
       truncate_html (= 0.9.2)
-    spree_frontend (2.2.2.beta)
+    spree_frontend (2.3.0.beta)
       canonical-rails (~> 0.0.4)
       jquery-rails (~> 3.1.0)
-      spree_api (= 2.2.2.beta)
-      spree_core (= 2.2.2.beta)
+      spree_api (= 2.3.0.beta)
+      spree_core (= 2.3.0.beta)
       stringex (~> 1.5.1)
-    spree_sample (2.2.2.beta)
-      spree_core (= 2.2.2.beta)
+    spree_sample (2.3.0.beta)
+      spree_core (= 2.3.0.beta)
 
 GIT
   remote: git://github.com/spree/spree_auth_devise.git
-  revision: e75c1f021c4353b2e10474dfb9181dc8d4571b40
-  branch: 2-2-stable
+  revision: a1a2e9cf904b85a92530b263df33cc164f939776
   specs:
     spree_auth_devise (2.2.0)
       cancan (~> 1.6.10)
@@ -63,7 +61,7 @@ GIT
       devise-encryptable (= 0.1.2)
       json
       multi_json
-      spree_core (~> 2.2.0)
+      spree_core (~> 2.3.0.beta)
 
 GEM
   remote: https://rubygems.org/
@@ -180,11 +178,10 @@ GEM
     nokogiri (1.6.1)
       mini_portile (~> 0.5.0)
     orm_adapter (0.5.0)
-    paperclip (3.4.2)
+    paperclip (4.1.1)
       activemodel (>= 3.0.0)
-      activerecord (>= 3.0.0)
       activesupport (>= 3.0.0)
-      cocaine (~> 0.5.0)
+      cocaine (~> 0.5.3)
       mime-types
     paranoia (2.0.2)
       activerecord (~> 4.0)
@@ -237,7 +234,6 @@ GEM
       actionpack (>= 3.0)
       activesupport (>= 3.0)
       sprockets (~> 2.8)
-    sqlite3 (1.3.9)
     state_machine (1.2.0)
     stringex (1.5.1)
     thor (0.19.1)
@@ -275,6 +271,5 @@ DEPENDENCIES
   sdoc
   spree!
   spree_auth_devise!
-  sqlite3
   turbolinks
   uglifier (>= 1.3.0)

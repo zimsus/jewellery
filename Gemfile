@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.4'
 
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+#gem 'sqlite3'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.2'
@@ -38,8 +38,12 @@ gem 'mysql2'
 
 
 #spree commerce gems
-gem 'spree', github: 'spree/spree', branch: '2-2-stable'
-gem 'spree_auth_devise', github: 'spree/spree_auth_devise', branch: '2-2-stable'
+
+gem 'spree', github: 'spree/spree'
+gem 'spree_auth_devise', github: 'spree/spree_auth_devise'
+#
+#gem 'spree', github: 'spree/spree', branch: '2-2-stable'
+#gem 'spree_auth_devise', github: 'spree/spree_auth_devise', branch: '2-2-stable'
 
 
 
