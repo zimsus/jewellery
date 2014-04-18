@@ -65,7 +65,7 @@
     <orderEntry type="library" scope="PROVIDED" name="mysql2 (v0.3.14, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.6.1, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="orm_adapter (v0.5.0, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="paperclip (v3.4.2, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="paperclip (v4.1.1, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="paranoia (v2.0.2, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="polyamorous (v0.6.4, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="polyglot (v0.3.4, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
@@ -81,17 +81,16 @@
     <orderEntry type="library" scope="PROVIDED" name="sass-rails (v4.0.3, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sdoc (v0.4.0, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="select2-rails (v3.4.9, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="spree (v2.2.2.beta@761ba5, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="spree_api (v2.2.2.beta@761ba5, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="spree_auth_devise (v2.2.0@e75c1f, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="spree_backend (v2.2.2.beta@761ba5, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="spree_cmd (v2.2.2.beta@761ba5, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="spree_core (v2.2.2.beta@761ba5, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="spree_frontend (v2.2.2.beta@761ba5, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="spree_sample (v2.2.2.beta@761ba5, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spree (v2.3.0.beta@ef29de, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spree_api (v2.3.0.beta@ef29de, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spree_auth_devise (v2.2.0@a1a2e9, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spree_backend (v2.3.0.beta@ef29de, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spree_cmd (v2.3.0.beta@ef29de, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spree_core (v2.3.0.beta@ef29de, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spree_frontend (v2.3.0.beta@ef29de, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spree_sample (v2.3.0.beta@ef29de, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.11.0, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets-rails (v2.0.1, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.9, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="state_machine (v1.2.0, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="stringex (v1.5.1, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thor (v0.19.1, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />

@@ -14,8 +14,8 @@ production:
   adapter: mysql2
 #  encoding: utf-8
   pool: 5
-  username: "rails"
+  username: "root"
   password: "q5ktyP0qmX"
   host: "localhost"
   port: "3306"
-  database: "rails"
+  database: "jewellery"

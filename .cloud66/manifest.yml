@@ -1,0 +1,9 @@
+production: # 1. Environment type
+    rails: # 2. Application type
+        servers:
+            server: # 3. Server type (optional)
+                unique_name: leopard
+                extra_packages:
+                  - imagemagick
+            configuration: # 4. Application specific configurations
+                ruby_version: 1.9.3

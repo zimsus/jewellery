@@ -5,10 +5,13 @@
 #
 # In order to initialize a setting do:
 # config.setting_name = 'new value'
+#  config.site_name = "Jewellery - demo"
+
 Spree.config do |config|
   # Example:
   # Uncomment to stop tracking inventory levels in the application
   # config.track_inventory_levels = false
+    config.allow_ssl_in_production = false
 end
 
 Spree.user_class = "Spree::User"
