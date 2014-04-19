@@ -86,9 +86,14 @@
     <orderEntry type="library" scope="PROVIDED" name="spree_auth_devise (v2.2.0@e75c1f, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_backend (v2.2.2.beta@761ba5, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_cmd (v2.2.2.beta@761ba5, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spree_contact_us (v2.2.0@4ff46a, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_core (v2.2.2.beta@761ba5, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spree_editor (v2.2.0@ef31bd, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_frontend (v2.2.2.beta@761ba5, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spree_gateway (v2.2.1@10430c, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spree_paypal_express (v2.0.3@a08f3c, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_sample (v2.2.2.beta@761ba5, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spree_static_content (v2.2.0@84a772, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.11.0, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets-rails (v2.0.1, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="state_machine (v1.2.0, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
