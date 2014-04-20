@@ -42,16 +42,17 @@ gem 'spree_auth_devise', github: 'spree/spree_auth_devise', branch: '2-2-stable'
 
 gem 'spree_gateway', github: 'spree/spree_gateway' , :branch => "2-2-stable"
 
-
-gem 'spree_paypal_express', :github => "radar/better_spree_paypal_express", :branch => "2-2-stable"
-
+gem 'spree_paypal_express', :github => 'radar/better_spree_paypal_express', :branch => "2-2-stable"
 
 gem 'spree_contact_us', :git => 'https://github.com/jdutil/spree_contact_us', :branch => "2-2-stable"
 
 gem 'spree_static_content', github: 'spree/spree_static_content', :branch => "2-2-stable"
 
-
 gem 'spree_editor', github: 'spree/spree_editor'      , :branch => "2-2-stable"
+
+gem 'spree_fancy', :github => 'spree/spree_fancy', :branch => '2-2-stable'
+
+gem 'spree_i18n', :github => 'spree/spree_i18n'   , :branch => '2-2-stable'
 
 #gem 'spree_volume_pricing', github:'spree/spree_volume_pricing' , :branch => "2-2-stable"
 

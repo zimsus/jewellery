@@ -14,3 +14,14 @@ Spree.config do |config|
 end
 
 Spree.user_class = "Spree::User"
+
+
+#SpreeI18n::Config.available_locales = [:en, :es, :'pt-BR'] # displayed on translation forms
+#SpreeI18n::Config.supported_locales = [:en, :'pt-BR'] # displayed on frontend select box
+
+
+
+
+Spree::Frontend::Config[:locale] = :en
+#Spree::Config.set(:default_locale => 'en')
+Spree::Backend::Config[:locale] = :ru
