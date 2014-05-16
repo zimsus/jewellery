@@ -40,6 +40,9 @@ gem 'mysql2'
 gem 'spree', github: 'spree/spree', branch: '2-2-stable'
 gem 'spree_auth_devise', github: 'spree/spree_auth_devise', branch: '2-2-stable'
 
+#gem 'spree_clean', :git => "git://github.com/spree/spree_clean.git" , branch: '2-2-stable'
+# rails generate spree_clean:install
+
 gem 'spree_gateway', github: 'spree/spree_gateway' , :branch => "2-2-stable"
 
 gem 'spree_paypal_express', :github => 'radar/better_spree_paypal_express', :branch => "2-2-stable"
@@ -53,6 +56,9 @@ gem 'spree_editor', github: 'spree/spree_editor'      , :branch => "2-2-stable"
 gem 'spree_fancy', :github => 'spree/spree_fancy', :branch => '2-2-stable'
 
 gem 'spree_i18n', :github => 'spree/spree_i18n'   , :branch => '2-2-stable'
+
+
+
 
 #gem 'spree_volume_pricing', github:'spree/spree_volume_pricing' , :branch => "2-2-stable"
 

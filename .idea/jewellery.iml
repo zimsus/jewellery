@@ -50,6 +50,7 @@
     <orderEntry type="library" scope="PROVIDED" name="ffaker (v1.24.0, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="friendly_id (v5.0.3, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="fssm (v0.2.10, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="globalize (v4.0.1, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="highline (v1.6.21, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="hike (v1.2.3, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="httparty (v0.13.1, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
@@ -81,6 +82,7 @@
     <orderEntry type="library" scope="PROVIDED" name="rack (v1.5.2, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.2, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails (v4.0.4, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails-i18n (v4.0.2, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="railties (v4.0.4, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="raindrops (v0.13.0, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v10.2.2, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
@@ -101,6 +103,7 @@
     <orderEntry type="library" scope="PROVIDED" name="spree_fancy (v1.3.0@023f61, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_frontend (v2.2.2.beta@761ba5, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_gateway (v2.2.1@10430c, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spree_i18n (v3.0.0@a7afd0, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_paypal_express (v2.0.3@a08f3c, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_sample (v2.2.2.beta@761ba5, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_static_content (v2.2.0@84a772, RVM: ruby-1.9.3-p448 [rubymine]) [gem]" level="application" />
