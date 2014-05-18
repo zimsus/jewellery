@@ -10,6 +10,7 @@ Spree.config do |config|
   # Uncomment to override the default site name.
    config.site_name = "Jewellery Demo Site"
    config.allow_ssl_in_production = false
+   config.allow_ssl_in_development = false
 
 end
 
@@ -18,8 +19,6 @@ Spree.user_class = "Spree::User"
 
 #SpreeI18n::Config.available_locales = [:en, :es, :'pt-BR'] # displayed on translation forms
 #SpreeI18n::Config.supported_locales = [:en, :'pt-BR'] # displayed on frontend select box
-
-
 
 
 Spree::Frontend::Config[:locale] = :en

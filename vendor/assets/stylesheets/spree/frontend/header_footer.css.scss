@@ -2,13 +2,9 @@
 
 @import 'bourbon';
 
-
-//@import 'compass';
-
 $box_shadow_color: #4b99e9;
 $border_color: #cce0f3;
 $background: #c5dbff;
-
 
 #footer-pages ul {
 float:right;
@@ -39,13 +35,15 @@ color: #666;
 @include linear-gradient(50deg, #1e5799 0%, #2989d8 50%, #207cca 51%, #7db9e8 100%);
 }
 
+
+/* HEADER MENU */
+
+
 body nav#top-nav-bar{
   margin-top: 5px;
-  margin-botom: 5px;
+  margin-botom: 1px;
 
 }
-
-
 
 body nav #main-nav-bar{
 
@@ -53,8 +51,24 @@ body nav #main-nav-bar{
   margin-botom: 5px;
   border-bottom: none;
 
+  li a{
+    //display:none;
+    padding-right: 10px;
+
+  }
+
 }
 
+//Removing Language Lable and Coredct Position
+body nav #main-nav-bar #locale-select {
+
+      label {
+        display:none;
+      }
+
+
+
+}
 
 
 div#subheader {
