@@ -57,7 +57,10 @@ gem 'spree_fancy', :github => 'spree/spree_fancy', :branch => '2-2-stable'
 
 gem 'spree_i18n', :github => 'spree/spree_i18n'   , :branch => '2-2-stable'
 
-
+#sass mixins
+#gem 'compass', '~> 0.12.6'
+gem 'bourbon'
+# bundle exec rake bourbon:install
 
 
 #gem 'spree_volume_pricing', github:'spree/spree_volume_pricing' , :branch => "2-2-stable"

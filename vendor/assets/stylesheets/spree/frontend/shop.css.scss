@@ -1,0 +1,69 @@
+/* SHOP View side navigation */
+@import "bourbon";
+
+$side_menu_color: #ff9600;
+
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+@mixin side-menu-selection($size: 1px, $border-size: 1px, $speed: 1.0s, $color: gray) {
+  height: $size;
+  width: $size;
+  margin: 0 auto;
+  position: relative;
+  border: $border-size solid tint($color, 70%);
+  @include border-top-radius(5px);
+  @include border-bottom-radius(5px);
+
+  @include animation(selection-animation $speed infinite linear);
+
+}
+
+@include keyframes(selection-animation) {
+
+  0%{ @include transform(translateX(0px));}
+  25%{ @include transform(translateX(5px));}
+  50%{ @include transform(translateX(0px));}
+  75%{ @include transform(translateX(-5px));}
+  100%{ @include transform(translateX(0px));}
+
+}
+
+nav#taxonomies .taxons-list li {
+
+  a:hover {
+
+    @include side-menu-selection($size: 100px, $speed: 0.5s, $color: $side_menu_color, $border-size: 2px);
+
+  }
+
+}
+
+/* SHOP View side navigation */
+
+
+ul#products li .product-image {
+
+  a {
+
+    border-color:white;
+
+  }
+  a:hover  {
+
+    border-style: solid ;
+    border-color: tint($side_menu_color, 70%);
+
+    @include border-top-radius(5px);
+    @include border-bottom-radius(5px);
+
+
+  }
+
+}
+
+
+
