@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c6a2d9a-d1ad-424f-9a0e-f433dd25c2d9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/spree/frontend/header_footer.css.scss" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/spree/frontend/header_footer.css.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/spree.rb" afterPath="$PROJECT_DIR$/config/initializers/spree.rb" />
     </list>
     <ignored path="jewellery.iws" />
@@ -80,7 +79,7 @@
       <file leaf-file-name="spree.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/initializers/spree.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="802" selection-end="802" vertical-scroll-proportion="0.40490797">
+            <state line="25" column="21" selection-start="881" selection-end="881" vertical-scroll-proportion="0.4601227">
               <folding />
             </state>
           </provider>
@@ -1152,7 +1151,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/spree.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="802" selection-end="802" vertical-scroll-proportion="0.40490797">
+        <state line="25" column="21" selection-start="881" selection-end="881" vertical-scroll-proportion="0.4601227">
           <folding />
         </state>
       </provider>
